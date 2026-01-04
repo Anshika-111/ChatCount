@@ -1,2 +1,2 @@
 # ChatCount
-Just an counter app.
+Just a counter app.
